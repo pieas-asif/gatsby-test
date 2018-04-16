@@ -4,9 +4,11 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.42",
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
+    "material-ui": "^1.0.0-beta.41",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
